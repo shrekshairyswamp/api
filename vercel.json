@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/get_ip.py": {
+      "runtime": "python3.9"
+    }
+  }
+}
